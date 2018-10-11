@@ -1,9 +1,8 @@
 # MACA Ride to Conquer Cancer Tracker
 
 The 2018 MACA Ride to Conquer Cancer Tracker will allow you to keep your family and friends informed of your location during the ride between Perth and Mandurah on October 13 and 14.
-
-Riders - Use the mobile app for Android and iOS to share your location during the ride.
-Family and friends - Use the map on the web portal to check on riders of interest.
+⋅⋅*Riders - Use the mobile app for Android and iOS to share your location during the ride.
+⋅⋅*Family and friends - Use the map on the web portal to check on riders' progress.
 
 # Installing the MACA Ride to Conquer Cancer Tracker mobile app
 ### iOS
@@ -25,7 +24,8 @@ Note: This will only update when a significant amount of movement (~5m) is detec
 5. Click **Stop Ride** at the end of the day which will complete the ride and allow another ride be started the next day.
 Note: Different rides are differentiated by colour on the map on the web portal.
 
-### Additional features - These are available from the dropdown menu  at the top left corner after logging in.
+### Additional features
+These are available from the dropdown menu  at the top left corner after logging in.
 1. **Delete Data**: Click the Information icon and select **Delete Data** to remove all location information that has been made available on https://cheermeon.com.au/
 2. **Log Out**: Click the icon to log out and return to login screen. 
 

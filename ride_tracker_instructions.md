@@ -31,5 +31,5 @@ These options are available from the dropdown menu ![alt text](https://github.co
 
 # Using the webpage to follow a rider
 1. Navigate to [web portal](https://cheermeon.com.au/)
-2. Begin to Input part of the name of the person (eg. "Tripodi") in the "Search for rider" field
+2. Begin to Input part of the name of the person (eg. "Tripodi") in the **Search for rider** field
 3. Click the suggested result (e.g. "Ryan Tripodi") and the map will update accordingly.

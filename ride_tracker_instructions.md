@@ -21,7 +21,7 @@ The 2018 MACA Ride to Conquer Cancer Tracker will allow you to keep your family 
 3. Click **Start Ride**. This will begin tracking your location.
 Note: This will only update when a significant amount of movement (~5m) is detected to optimise battery.
 4. Click **Pause Ride**, this will stop uploading your location. **Resume Ride** will continue tracking.
-5. Click **Stop Ride** at the end of the day which will complete the ride and allow another ride be started the next day.
+5. Click **Stop Ride** at the end of the day which will complete the ride and allow another ride to be started the next day.
 Note: Different rides are differentiated by colour on the map on the web portal.
 
 ### Additional mobile app features

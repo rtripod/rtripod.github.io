@@ -16,7 +16,7 @@ The 2018 MACA Ride to Conquer Cancer Tracker will allow you to keep your family 
 
 # Using the mobile app
 ### Ride Tracking
-1. Login using your Rider ID. This can be found at the bottom of your Rider Profile page - For example "123456-7".
+1. Login using your Rider ID. This can be found at the bottom of your Rider Profile page, in the format of "123456-7".
 2. Accept permission for App to “Always Allow” access to your location information.
 3. Click **Start Ride**. This will begin tracking your location.
 Note: This will only update when a significant amount of movement (~5m) is detected to optimise battery.

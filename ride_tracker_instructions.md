@@ -8,11 +8,11 @@ The 2018 MACA Ride to Conquer Cancer Tracker will allow you to keep your family 
 ### iOS
 1. Install Apple TestFlight on your iPhone - [TestFlight](https://itunes.apple.com/au/app/testflight/id899247664?mt=8)
 2. Navigate to this link on your iPhone - [iOS MACA RTCC Tracker](https://testflight.apple.com/join/i0LF6KyZ)
-3. Install the MACA RTCC Tracker app.
+3. Install the iOS MACA RTCC Tracker app.
 
 ### Android
 1. Navigate to this link on your Android device - [Android MACA RTCC Tracker](https://play.google.com/store/apps/details?id=com.rtripodi.macartcctracker)
-2. Install the MACA RTCC Tracker app.
+2. Install the Android MACA RTCC Tracker app.
 
 # Using the mobile app
 ### Ride Tracking

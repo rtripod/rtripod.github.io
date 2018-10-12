@@ -15,9 +15,7 @@ The 2018 MACA Ride to Conquer Cancer Tracker will allow you to keep your family 
 2. Install the Android MACA RTCC Tracker app.
 
 # Using the mobile app
-![alt text](https://raw.githubusercontent.com/rtripod/rtripod.github.io/master/Mobile%20Login%20Thumbnail.png "Login") 
-![alt text](https://raw.githubusercontent.com/rtripod/rtripod.github.io/master/Mobile%20Tracking.png "Tracking") 
-![alt text](https://raw.githubusercontent.com/rtripod/rtripod.github.io/master/Mobile%20Delete%20Data.png "Delete Data")
+![alt text](https://raw.githubusercontent.com/rtripod/rtripod.github.io/master/Mobile%20App.png "Mobile App")
 ### Ride Tracking
 1. Login using your Rider ID. This can be found at the bottom of your Rider Profile page, in the format of "123456-7".
 2. Accept permission for App to “Always Allow” access to your location information.

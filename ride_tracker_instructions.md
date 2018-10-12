@@ -33,6 +33,7 @@ These options are available from the dropdown menu ![alt text](https://github.co
 2. **Log Out**: Click the ![alt text](https://github.com/rtripod/rtripod.github.io/raw/master/Logout.png "Log Out Icon") icon to log out and return to login screen. 
 
 # Using the webpage to follow a rider
+![alt text](https://github.com/rtripod/rtripod.github.io/blob/master/Web%20Map.png "Web Portal")
 1. Navigate to [web portal](https://cheermeon.com.au/)
 2. Begin to input the name of the person (eg. "Tripodi") in the **Search for rider** field
 3. Click the suggested result (e.g. "Ryan Tripodi") and the map will update accordingly.
